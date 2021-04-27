@@ -1,3 +1,5 @@
-# Guillermo Nieva
+ # Guillermo Nieva
 ------------------
-[cv.md](cv.md)
+* [cv.md](cv.md)
+
+* [pullrequest.md](pullrequest.md)
